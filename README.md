@@ -34,9 +34,3 @@ State Management: React's state management is utilized to handle the data fetche
 Component Structure: The application is divided into functional components, each responsible for a specific part of the UI, such as the video list, individual video items, and the search bar.
 
 Responsive Styling: Material-UI components and custom CSS are used to style the application, ensuring that it adapts to different screen sizes and orientations.
-
-Deployment:
-
-The application is hosted on Netlify, a platform for deploying and managing modern web projects. This allows for continuous deployment and easy access via the provided URL.
-
-URL: https://647733e206c680108f070b06--golden-ganache-590ca3.netlify.app/
