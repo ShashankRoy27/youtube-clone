@@ -2,6 +2,13 @@
 This project is a Youtube clone.
 This web application aims to replicate core functionalities of YouTube, providing users with a familiar interface and experience. It is an ad-free YouTube-like Platform with Reactjs. Can Handle 5 requests/second for seamless performance. Utilized MUI5 for superior UX, integrated RapidAPI YouTube v3 API via Axios, and crafted reusable components
 
+Deployment:
+
+The application is hosted on Netlify, a platform for deploying and managing modern web projects. This allows for continuous deployment and easy access via the provided URL.
+
+URL: https://647733e206c680108f070b06--golden-ganache-590ca3.netlify.app/
+
+
 Technologies Used:
 
 HTML, CSS, JavaScript: These foundational web technologies structure the content, style the application, and add interactivity.
